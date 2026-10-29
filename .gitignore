@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Backup files
+.git_upstream_backup/
+.gitignore_course
+README_course.md
+
